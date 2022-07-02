@@ -9,25 +9,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5e4bea6-3ac4-41df-a25a-3f3a4164811b" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/demo_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/demo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/test.jsp" afterDir="false" />
+    <list default="true" id="d5e4bea6-3ac4-41df-a25a-3f3a4164811b" name="변경" comment="2022-06-22">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ch07/CartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ch07/CreateRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ch07/ProductDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ch07/SessionSave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ch09/BookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ch09/BookDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ch09/Criteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/repository/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/bcrypt-0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ojdbc5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ojdbc6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ojdbc6_g.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/07Session/05LoginForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/07Session/05LoginProc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/07Session/05Logout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/07Session/05Main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/07Session/05ShowCart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/07Session/05ShowCartList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/07Session/05ShowSessionInfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/07Session/05addCart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/08Cookie/01Basic/01CookCookie.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/08Cookie/01Basic/01TasteCookie.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/08Cookie/02Path/CookCookie.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/08Cookie/02Path/TasteCookie.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/08Cookie/03Remove/CookCookie.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/08Cookie/03Remove/RemoveCookie.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/08Cookie/03Remove/ShowCookie.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/08Cookie/04IDPW/Login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/08Cookie/04IDPW/LoginProc.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/08Cookie/04IDPW/Logout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/08Cookie/04IDPW/Main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/09Database/01Bassic/00Post100.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/09Database/01Bassic/01DBConn.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/09Database/01Bassic/03Select.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/09Database/01Bassic/04Update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/09Database/01Bassic/05Delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/09Database/02Proc/01Post200.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/09Database/02Proc/02Select.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/09Database/02Proc/03Select.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/09Database/02Proc/04Delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/09Database/02Proc/강사님풀이/01Select.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/09Database/02Proc/강사님풀이/02Select.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/09Database/02Proc/강사님풀이/03Select.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/09Database/02Proc/강사님풀이/04Select.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/09Database/02Proc/강사님풀이/05Select.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/demo_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/demo_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/test.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/09Database/01Bassic/02Insert.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +74,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jspx File" />
+        <option value="AnnotationType" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -52,6 +95,8 @@
     </option>
     <option name="myId2Visible">
       <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
         <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
     </option>
@@ -74,27 +119,60 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/bs010/OneDrive/바탕 화면/demo",
+    "last_opened_file_path": "C:/Users/bs010/OneDrive/바탕 화면/cos",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "프로젝트",
+    "project.structure.last.edited": "전역 라이브러리",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "project.structure.side.proportion": "0.2045977",
+    "settings.editor.selected.configurable": "MavenSettings"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "oracle",
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="repository" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bs010\OneDrive\바탕 화면\demo\src\main\webapp\09Database\02Proc\강사님풀이" />
+      <recent name="C:\Users\bs010\OneDrive\바탕 화면\demo\src\main\webapp\09Database\01Bassic" />
+      <recent name="C:\Users\bs010\OneDrive\바탕 화면\demo\src\main\resources" />
+      <recent name="C:\Users\bs010\OneDrive\바탕 화면\demo\src\main\webapp\07Session" />
+      <recent name="C:\Users\bs010\OneDrive\바탕 화면\demo\src\main\java\Ch07" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bs010\OneDrive\바탕 화면\demo\src\main\webapp\08Cookie\03Remove" />
+      <recent name="C:\Users\bs010\OneDrive\바탕 화면\demo\src\main\webapp\08Cookie\01Basic" />
+      <recent name="C:\Users\bs010\OneDrive\바탕 화면\demo\src\main" />
       <recent name="C:\Users\bs010\OneDrive\바탕 화면\demo\src\main\webapp" />
+      <recent name="C:\Users\bs010\OneDrive\바탕 화면\demo\src\main\java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat 서버.Tomcat 9.0.64">
+    <configuration name="02SimpleForm.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/demo_war_exploded/05ActionTag/02SimpleForm.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="03Main.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/demo_war_exploded/03지시자/03Main.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="04Index.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/demo_war_exploded/03지시자/04Index.jsp">
+      <method v="2" />
+    </configuration>
     <configuration name="Tomcat 9.0.64" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.64" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -182,6 +260,19 @@
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JavaScript 디버그.02SimpleForm.jsp" />
+      <item itemvalue="JavaScript 디버그.03Main.jsp" />
+      <item itemvalue="JavaScript 디버그.04Index.jsp" />
+      <item itemvalue="Tomcat 서버.Tomcat 9.0.64" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript 디버그.02SimpleForm.jsp" />
+        <item itemvalue="JavaScript 디버그.04Index.jsp" />
+        <item itemvalue="JavaScript 디버그.03Main.jsp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -191,8 +282,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655861579827</updated>
-      <workItem from="1655861581024" duration="4969000" />
+      <workItem from="1655861581024" duration="6729000" />
+      <workItem from="1655873713969" duration="12665000" />
+      <workItem from="1655947584114" duration="1210000" />
+      <workItem from="1655948951118" duration="5851000" />
+      <workItem from="1655961198897" duration="1558000" />
+      <workItem from="1655962806791" duration="11377000" />
+      <workItem from="1656047380603" duration="1022000" />
+      <workItem from="1656288309276" duration="643000" />
+      <workItem from="1656289763886" duration="8135000" />
+      <workItem from="1656375758928" duration="3220000" />
+      <workItem from="1656393661989" duration="1191000" />
+      <workItem from="1656462557272" duration="2890000" />
+      <workItem from="1656466620415" duration="13270000" />
+      <workItem from="1656490486199" duration="1754000" />
+      <workItem from="1656551745600" duration="18009000" />
+      <workItem from="1656576507509" duration="2146000" />
+      <workItem from="1656634299937" duration="1727000" />
+      <workItem from="1656636246665" duration="127000" />
+      <workItem from="1656636454189" duration="11994000" />
+      <workItem from="1656733408859" duration="31000" />
     </task>
+    <task id="LOCAL-00001" summary="2022-06-22">
+      <created>1655867806002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655867806002</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,5 +326,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2022-06-22" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022-06-22" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/webapp/07Session/05Main.jsp</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
