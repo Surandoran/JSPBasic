@@ -1,0 +1,32 @@
+		    /* footer */
+		    footer{
+		        height:300px;
+		    }
+		    
+     		
+            #footer-menu{
+                display:flex;
+                background-color:lightblue;
+            }
+            #footer-menu>li{
+                width:150px;
+            }
+            #body-element{
+                margin-top:50px;
+                display:flex;
+                align-items: center;
+                border:1px solid lightgray;
+            }
+            #footer-logo{
+                width:100px;
+                height:100px;
+                background-color:lightpink;
+            }
+            #info{
+                width:70%;
+                height:50px;
+            }
+            #sns{
+                width:30%;
+                height:100px;
+            }
